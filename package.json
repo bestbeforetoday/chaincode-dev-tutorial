@@ -4,6 +4,7 @@
   "description": "Node.js version of the chaincode developer tutorial at http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "test"
   },
   "repository": {
